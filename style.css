@@ -1,3 +1,25 @@
-body {
+@charset "utf-8";
 
+body {
+	background-color: steelblue
 }
+
+img {
+	width: 200px
+}
+
+img:hover {
+	border: double green 8px;
+	border-radius: 100%;
+	width: 300px;
+}
+
+
+h3 {
+  color: limegreen;
+  text-shadow: 2px 2px 5px black;
+  text-decoration: wavy underline;
+}
+
+
+
